@@ -1,0 +1,11 @@
+# YARA compiled indexes
+*.yarac
+*.yac
+
+# local sample dirs (never commit samples)
+samples/
+malware/
+
+# editor cruft
+.DS_Store
+*~
